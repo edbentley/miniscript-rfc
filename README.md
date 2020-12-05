@@ -29,7 +29,11 @@ const add = (a, b) => a + b;
 
 ## Demo
 
-<!-- Proof of concept demo -->
+https://miniscript-demo.netlify.app
+
+This is an unfinished prototype of MiniScript in an interactive editor. You can hover over variables to see their inferred type.
+
+90% of the features are missing or not implemented the same as the spec. There are also lots of bugs! This demo only provides some cherry-picked examples to give you a preview of how the language could work.
 
 # Spec
 
